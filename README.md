@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Full-Stack+Engineer;Voice+Agent+Developer;Building+Scalable+Products;Open+to+Opportunities"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Full-Stack+Engineer;AI+Agent+Developer;Building+Scalable+Products;Open+to+Opportunities"/>
 </p>
 
 <!-- 🔥 GLASS / DARK DEV ANIMATION -->
