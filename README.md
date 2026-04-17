@@ -75,11 +75,9 @@
 
 ---
 
-## ⚡ Philosophy
 
-> "I don’t just code — I build systems that scale."
 
----
+>## "I don’t just code — I build systems that scale."
 
 ---
 
