@@ -13,6 +13,7 @@
 <!-- 🔥 GLASS / DARK DEV ANIMATION -->
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/> </p>
 
+
 <!-- ⚡ GLOW DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=2&section=header"/>
