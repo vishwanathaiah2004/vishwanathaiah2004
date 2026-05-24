@@ -19,10 +19,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=2&section=header"/>
 </p>
 
-<!-- 🌌 DARK WAVE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6A00FF&height=140&section=header"/>
-</p>
 
 ---
 
