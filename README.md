@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-💡 Full-Stack Developer | 3rd Year IT Student  
+💡 Full-Stack Developer | Final Year Year IT Student  
 ⚡ I build **production-ready web applications**  
 🤖 Exploring **AI systems, voice agents & automation**  
 🚀 Actively seeking **internships & real-world projects**
