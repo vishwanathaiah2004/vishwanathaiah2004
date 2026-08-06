@@ -1,51 +1,78 @@
-<!-- 🔥 ULTRA PREMIUM DARK HERO -->
+<!-- ======================= HERO ======================= -->
 
 <h1 align="center">
-  <span style="color:#00F7FF;">Hi 👋, I'm</span>
-  <br/>
-  <span style="font-size: 40px;">H M Vishwanathaiah</span>
+  Hi 👋 I'm <br>
+  <b>H M Vishwanathaiah</b>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=1000&color=00008B&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;AI+Agent+Developer;Full-Stack+Engineer;Voice+AI+%26+Automation;Open+to+Internships+%26+Opportunities"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+Engineer;Full-Stack+Developer;Building+AI+Agents+%26+Voice+AI;Scalable+Backend+Systems;Open+to+Software+Engineering+Internships"/>
 </p>
 
-<!-- 🔥 GLASS / DARK DEV ANIMATION -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-<!-- ⚡ GLOW DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:3B82F6&height=2&section=header"/>
 </p>
 
+---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💡 Final-Year Information Science Engineering Student
+I'm a Final-Year Information Science Engineering student passionate about building **AI-powered software** that solves real-world problems.
 
-🤖 Passionate about building **AI-powered products**, **Voice AI**, **LLM applications**, and **Full-Stack SaaS platforms**
+I enjoy designing scalable backend systems, building AI agents, developing voice applications, and creating modern full-stack products.
 
-⚡ Experienced with **Next.js, FastAPI, Express.js, PostgreSQL, Prisma, Gemini, Vapi, Twilio & WebRTC**
-
-🌍 Open Source Contributor and Hackathon Enthusiast
-
-🚀 Currently seeking **Software Engineering**, **AI**, and **Full-Stack** internship opportunities
+- 🚀 Building AI-powered products from idea to deployment
+- 🤖 Interested in AI Agents, Voice AI, LLM Applications & Backend Engineering
+- ⚙️ Experienced with modern JavaScript and Python ecosystems
+- 🌱 Open Source Contributor & Hackathon Enthusiast
+- 💼 Seeking Software Engineering, AI & Full-Stack Internship Opportunities
 
 ---
 
-# 🏆 Highlights
+# 🚀 Highlights
 
-- 🎯 Built a **Production Voice AI Sales Agent** using Gemini, Vapi & Twilio
+- 🎯 Built a **Production Voice AI Sales Platform** using Gemini, Vapi & Twilio
 - 🚀 Developed scalable Full-Stack applications with Next.js, FastAPI & PostgreSQL
-- 🏆 Smart India Hackathon 2025 – Second Round
+- 🏆 Smart India Hackathon – Second Round
 - 🏆 HackToFuture Finalist
 - 💼 Software Development Internship Experience
-- 🌱 Active Open Source Contributor
-- 💻 Continuously improving Data Structures & Algorithms in Java
+- 🌍 Active Open Source Contributor
+- 💻 Solving Data Structures & Algorithms in Java
 
 ---
+
+# 🎯 Current Focus
+
+- 🤖 AI Agents & Voice AI
+- ⚡ Backend System Design
+- 🧠 Large Language Model Applications
+- ☁️ Cloud Deployment & Scalable APIs
+- 💻 Data Structures & Algorithms
+- 🌍 Open Source Contributions
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-vishwanathaiah.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/h-m-vishwanathaiah-02926932a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/HMVishwana22707">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
 
 # 💻 Tech Stack
 
@@ -66,31 +93,23 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
 ---
 
-# 🌐 Connect With Me
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h-m-vishwanathaiah-02926932a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/HMVishwana22707">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwanathaiah2004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📊 GitHub Stats
+<img height="170" src="https://streak-stats.demolab.com?user=vishwanathaiah2004&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwanathaiah2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=vishwanathaiah2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathaiah2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathaiah2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -98,15 +117,21 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwanathaiah2004&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwanathaiah2004&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true"/>
+
 </p>
 
 ---
 
-> ### *Building AI-powered software that solves real-world problems.*
+# 💡 Philosophy
+
+> **Building reliable software, solving meaningful problems, and continuously learning through engineering.**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vishwanathaiah2004&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=vishwanathaiah2004&icon=0&color=0)
+
+</p>
