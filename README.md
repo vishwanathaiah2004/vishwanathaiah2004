@@ -124,7 +124,7 @@ I enjoy designing scalable backend systems, building AI agents, developing voice
 
 ---
 
-# 💡 Philosophy
+###
 
 > **Building reliable software, solving meaningful problems, and continuously learning through engineering.**
 
