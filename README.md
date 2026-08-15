@@ -35,11 +35,11 @@ I enjoy designing scalable backend systems, building AI agents, developing voice
 
 # 🚀 Highlights
 
+- 💼 **Software Development Internship Experience**
 - 🎯 Built a **Production Voice AI Sales Platform** using Gemini, Vapi & Twilio
 - 🚀 Developed scalable Full-Stack applications with Next.js, FastAPI & PostgreSQL
 - 🏆 Smart India Hackathon – Second Round
 - 🏆 HackToFuture Finalist
-- 💼 Software Development Internship Experience
 - 🌍 Active Open Source Contributor
 - 💻 Solving Data Structures & Algorithms in Java
 
